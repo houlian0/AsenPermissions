@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- 确认 -->
+    <string name="permissions_confirm">确认</string>
+    <!-- 取消 -->
+    <string name="permissions_cancel">取消</string>
+    
+    <!-- 设置 -->
+    <string name="permissions_setting">设置</string>
+    <!-- 字符串分隔符 -->
+    <string name="permissions_text_separator">，</string>
+    <!-- 字符串“和" -->
+    <string name="permissions_text_add">和</string>
+    <!-- 应用申请权限的提示信息 -->
+    <string name="permissions_permission_tip">应用需要%s权限，才能继续操作，是否现在进行设置？</string>
+    <!-- 应用未授予权限的提示信息 -->
+    <string name="permissions_no_permission_tip">应用未授予%s权限，不能继续操作！</string>
+    <!-- 日历权限组 -->
+    <string name="permissions_permission_group_calendar">日历</string>
+    <!-- 相机权限组 -->
+    <string name="permissions_permission_group_camera">相机</string>
+    <!-- 通讯录权限组 -->
+    <string name="permissions_permission_group_contacts">通讯录</string>
+    <!-- 位置信息权限组 -->
+    <string name="permissions_permission_group_location">位置信息</string>
+    <!-- 麦克风权限组 -->
+    <string name="permissions_permission_group_microphone">麦克风</string>
+    <!-- 电话权限组 -->
+    <string name="permissions_permission_group_phone">电话</string>
+    <!-- 身体传感器权限组 -->
+    <string name="permissions_permission_group_sensors">身体传感器</string>
+    <!-- 短信权限组 -->
+    <string name="permissions_permission_group_sms">短信</string>
+    <!-- 存储空间权限组 -->
+    <string name="permissions_permission_group_storage">存储空间</string>
+
+</resources>

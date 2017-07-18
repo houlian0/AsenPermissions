@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsenPermissions</string>
+    <string name="sd_permissions">动态申请SD卡权限</string>
+    <string name="camera_permissions">动态申请相机权限</string>
+    <string name="sd_permissions_success">SD卡权限授予成功</string>
+    <string name="camera_permissions_success">相机权限授予成功</string>
+</resources>
